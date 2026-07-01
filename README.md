@@ -2,13 +2,13 @@
 
 ## Students
 
-Student 1 full name: __________  
-Student 1 ID: __________  
+Student 1 full name: Ron Adi  
+Student 1 ID: 206549594
 
-Student 2 full name: __________  
-Student 2 ID: __________  
+Student 2 full name: Roei Shitrit  
+Student 2 ID: 206436065  
 
-Repository link: __________
+Repository link: https://github.com/RonAdi77/Pizza-App-phase-02
 
 > Submission note: the submitter ID ends with the digit 4, so the personal rule is: a large pizza must include at least one topping.
 
